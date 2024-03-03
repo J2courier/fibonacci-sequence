@@ -1,0 +1,3 @@
+fibonaci sequence might be one of our mditerm exam in programming...
+so i did it in advance..
+there's nothing mcuh to see here.
